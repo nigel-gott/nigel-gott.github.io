@@ -8,7 +8,7 @@
     {
       "name":"Dispatchable",
       "url":"https://github.com/nigel-gott/dispatchable",
-      "desc":"code generation library for dart bloc boilerplate."
+      "desc":"a code generation library for dart bloc boilerplate."
     }
   ]
 }
