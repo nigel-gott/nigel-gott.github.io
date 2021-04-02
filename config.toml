@@ -1,0 +1,40 @@
+baseURL = "http://www.nigelgott.com/"
+languageCode = "en-us"
+title = "Nigel Gott's Blog"
+theme = "cactus"
+copyright = "Nigel Gott"
+logo = "images/logo.jpg"
+
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[params]
+  colortheme = "classic"
+  projectsUrl = "https://github.com/nigel-gott"
+  mainSection = "posts"
+
+  description = "Hello! I am a dev working at [baserow.io](https://baserow.io)."
+
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/nigel-gott"
