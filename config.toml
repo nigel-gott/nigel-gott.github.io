@@ -22,7 +22,7 @@ weight = 2
   projectsUrl = "https://github.com/nigel-gott"
   mainSection = "posts"
 
-  description = "Hello! I am a dev working at [baserow.io](https://baserow.io)."
+  description = "Hello there! I am a dev working at [baserow.io](https://baserow.io)."
 
 
 [[params.social]]
