@@ -6,8 +6,8 @@
       "desc":"an organizational management tool for the mobile mmorpg eve echoes."
     },
     {
-      "name":"Dispatchable",
-      "url":"https://github.com/nigel-gott/dispatchable",
+      "name":"Class Switch",
+      "url":"https://github.com/nigel-gott/class_switch",
       "desc":"a code generation library for dart bloc boilerplate."
     }
   ]
